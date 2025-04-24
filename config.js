@@ -15,7 +15,7 @@ export const options = {
 export const params = {
     headers: {
         'Content-Type': 'application/json',
-        Authorization:
-            'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9....',
+        'Authorization': 'API-KEY',
+        'X-API-KEY': 'P-RR0tgRSeiCFgcjfrAO4TOodRwJUd6KzP',
     },
 };
